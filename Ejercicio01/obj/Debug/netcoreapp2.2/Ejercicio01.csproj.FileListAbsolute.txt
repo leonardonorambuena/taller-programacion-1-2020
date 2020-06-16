@@ -1,0 +1,11 @@
+F:\Google Drive\Trabajo\Aiep\Docencia\2020\Taller de programación 1\Ejercicios Consola\Guía 1\Ejercicio01\bin\Debug\netcoreapp2.2\Ejercicio01.deps.json
+F:\Google Drive\Trabajo\Aiep\Docencia\2020\Taller de programación 1\Ejercicios Consola\Guía 1\Ejercicio01\bin\Debug\netcoreapp2.2\Ejercicio01.runtimeconfig.json
+F:\Google Drive\Trabajo\Aiep\Docencia\2020\Taller de programación 1\Ejercicios Consola\Guía 1\Ejercicio01\bin\Debug\netcoreapp2.2\Ejercicio01.runtimeconfig.dev.json
+F:\Google Drive\Trabajo\Aiep\Docencia\2020\Taller de programación 1\Ejercicios Consola\Guía 1\Ejercicio01\bin\Debug\netcoreapp2.2\Ejercicio01.dll
+F:\Google Drive\Trabajo\Aiep\Docencia\2020\Taller de programación 1\Ejercicios Consola\Guía 1\Ejercicio01\bin\Debug\netcoreapp2.2\Ejercicio01.pdb
+F:\Google Drive\Trabajo\Aiep\Docencia\2020\Taller de programación 1\Ejercicios Consola\Guía 1\Ejercicio01\obj\Debug\netcoreapp2.2\Ejercicio01.csprojAssemblyReference.cache
+F:\Google Drive\Trabajo\Aiep\Docencia\2020\Taller de programación 1\Ejercicios Consola\Guía 1\Ejercicio01\obj\Debug\netcoreapp2.2\Ejercicio01.csproj.CoreCompileInputs.cache
+F:\Google Drive\Trabajo\Aiep\Docencia\2020\Taller de programación 1\Ejercicios Consola\Guía 1\Ejercicio01\obj\Debug\netcoreapp2.2\Ejercicio01.AssemblyInfoInputs.cache
+F:\Google Drive\Trabajo\Aiep\Docencia\2020\Taller de programación 1\Ejercicios Consola\Guía 1\Ejercicio01\obj\Debug\netcoreapp2.2\Ejercicio01.AssemblyInfo.cs
+F:\Google Drive\Trabajo\Aiep\Docencia\2020\Taller de programación 1\Ejercicios Consola\Guía 1\Ejercicio01\obj\Debug\netcoreapp2.2\Ejercicio01.dll
+F:\Google Drive\Trabajo\Aiep\Docencia\2020\Taller de programación 1\Ejercicios Consola\Guía 1\Ejercicio01\obj\Debug\netcoreapp2.2\Ejercicio01.pdb
